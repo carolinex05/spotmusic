@@ -1,13 +1,13 @@
 body {
     color:beige;
-    background:black;
+    background : black;
     margin: 0px;
 
 }
 
 header {
-    border-bottom: solid 2px rgb(81, 109, 145);
+    border-bottom: solid 2px rgb(20, 145, 41);
     padding: 20px;
     font-size: 32px;
-    color: rgb(32, 39, 48);
+    color: rgb(36, 142, 27);
 }
